@@ -1,0 +1,10 @@
+Hello {{ user.first_name }} {{ user.last_name }},
+
+Thank you for registering! Please click the link below to activate your account:
+
+{{ activate_link }}
+
+If you didn't request this, please ignore this email.
+
+Best regards,
+Forent Team
